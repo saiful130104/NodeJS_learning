@@ -1,0 +1,19 @@
+{
+  "name": "the-bicycle-shop(ejs-version)",
+  "version": "1.0.0",
+  "description": "Bicycle-shop is a mini onlie shop demo with pure Node.JS",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "express": "^4.17.3"
+  }
+}
