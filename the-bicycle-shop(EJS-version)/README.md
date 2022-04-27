@@ -1,3 +1,3 @@
 # Mini online shop demo.
 
-Bicycle-shop is a mini onlie shop demo with pure Node.JS
+This is similar to the bicycle-shop but it is built with ExpressJS template instead of pure Node.JS
