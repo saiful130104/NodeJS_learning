@@ -65,7 +65,7 @@ app.put('/api/products/:id', (req, res) => {
     }
     products[index].name = req.body.name;
     products[index].price = req.body.price;
-    res.json(products[index]);
+    return res.json(products[index]);
 });
 
 // update a product using put
